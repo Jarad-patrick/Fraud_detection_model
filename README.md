@@ -13,19 +13,7 @@ Feature selection and engineering
 Model training and evaluation
 Performance metrics (Precision, Recall, F1-score, ROC-AUC)
 Fraud prediction on new/unseen data
-Tech Stack
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib / Seaborn
-Project Structure
-├── data/                # Dataset (not included or sample only)
-├── notebooks/           # Jupyter notebooks for exploration
-├── models/              # Saved trained models
-├── src/                 # Source code (preprocessing, training, utils)
-├── app.py               # (Optional) API or deployment script
-├── requirements.txt     # Dependencies
-└── README.md
+
 Installation
 git clone https://github.com/jarad-patrick/fraud-detection-model.git
 cd fraud-detection-model

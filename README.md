@@ -27,7 +27,7 @@ Project Structure
 ├── requirements.txt     # Dependencies
 └── README.md
 Installation
-git clone https://github.com/your-username/fraud-detection-model.git
+git clone https://github.com/jarad-patrick/fraud-detection-model.git
 cd fraud-detection-model
 pip install -r requirements.txt
 Usage
